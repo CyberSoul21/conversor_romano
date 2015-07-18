@@ -215,3 +215,8 @@ int  Romano::valida_entrada_f(){
        } while (continuar);
        return numero;
 };
+void Romano::limpiar(){
+
+    numero_romano="";
+
+};
