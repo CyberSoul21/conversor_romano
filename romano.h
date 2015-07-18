@@ -19,6 +19,7 @@ class Romano
         void imprimir();
         int valida_entrada();
         int valida_entrada_f();
+        void limpiar();
 };
 
 
