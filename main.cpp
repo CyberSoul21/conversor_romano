@@ -39,6 +39,7 @@ int main()
         x=r.valida_entrada();
         r.conversion(x);
         r.imprimir();
+        r.limpiar();
         cout<<endl<<"DESEA CONVERTIR OTRO NUMERO?";
         cout<<endl<<"1.SI";
         cout<<endl<<"2.NO"<<endl;;
